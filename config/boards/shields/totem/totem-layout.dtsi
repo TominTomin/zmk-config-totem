@@ -4,6 +4,7 @@
     totem_layout: totem_layout {
         compatible = "zmk,physical-layout";
         display-name = "Default";
+        transform = <&default_transform>;
 
         keys
             = <&key_physical_attrs 106 100   78 152 (-1000)  130  202>
