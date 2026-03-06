@@ -33,7 +33,7 @@
         combo_ble {
             timeout-ms = <50>;
             key-positions = <32 37>;
-            bindings = <&tog BLE>;
+            bindings = <&to BLE>;
         };
 
         combo_base {
